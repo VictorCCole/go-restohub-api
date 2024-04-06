@@ -1,1 +1,1 @@
-# go-weight-manager-api
+# go-restohub-api
