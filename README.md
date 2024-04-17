@@ -42,4 +42,4 @@ Este é um projeto de API RESTful escrito em Go (Golang) usando o framework Gin.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor melhorias. Se desejar contribuir com código, por favor, siga as diretrizes de contribuição neste repositório.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
